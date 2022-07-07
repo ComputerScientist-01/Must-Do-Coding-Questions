@@ -1,7 +1,7 @@
 # Must Do Coding Questions in Java
 
 
-<details>
+
 <summary style="font-size: 1.5em">Array</summary>
   
 | S.No | Question Link | Solution | Difficulty |
@@ -43,10 +43,9 @@
 
   <br><br>
   
-</details>
 
 
-<details>
+
 <summary style="font-size: 1.5em">Searching Algo</summary>
   
 | S.No | Question Link | Solution | Difficulty |
@@ -62,10 +61,9 @@
 | 9 | [Find Pair Given Difference](https://practice.geeksforgeeks.org/problems/find-pair-given-difference1559/1#) | [Find Pair Given Difference](./Searching/Find_Pair_Given_Difference.java) | **Easy** |
 | 10 | [Zero Sum Subarrays](https://practice.geeksforgeeks.org/problems/zero-sum-subarrays1825/1) | [Zero Sum Subarrays](./Searching/Zero_Sum_Subarrays.java) | **Medium** |
   <br><br>
-  
-</details>
 
-<details>
+
+
 <summary style="font-size: 1.5em">Sorting Algo</summary>
   
 | S.No | Question Link | Solution | Difficulty |
@@ -76,9 +74,9 @@
 | 4 | [Merge Sort](https://practice.geeksforgeeks.org/problems/merge-sort/1) | [Merge Sort](./Sorting/Merge_Sort.java/String) | **Easy** |
   
   <br><br>
-</details>
 
-<details>
+
+
 <summary style="font-size: 1.5em">Martix</summary>
   
 | S.No | Question Link | Solution | Difficulty |
@@ -93,9 +91,8 @@
 | 8 | [Solve the Sudoku](https://practice.geeksforgeeks.org/problems/solve-the-sudoku-1587115621/1) | [Solve the Sudoku](./Matrix/Solve_the_Sudoku.java) | **Medium** |
   
   <br><br>
-</details>
 
-<details>
+
 <summary style="font-size: 1.5em">String</summary>
   
 | S.No | Question Link | Solution | Difficulty |
@@ -113,9 +110,8 @@
 
 <br><br>  
   
-</details>
 
-<details>
+
 <summary style="font-size: 1.5em">LinkedList</summary>
 
 | S.No | Question Link | Solution | Difficulty |
@@ -154,10 +150,8 @@
 
 <br><br>
 
-  
-</details>
 
-<details>
+
 <summary style="font-size: 1.5em">Tree</summary>
 
 | S.No | Question Link | Solution | Difficulty |
@@ -204,9 +198,9 @@
 <br><br>
 
 
-</details>
 
-<details>
+
+
 <summary style="font-size: 1.5em">Binary Search Tree</summary>
   
 | S.No | Question Link | Solution | Difficulty |
@@ -222,9 +216,7 @@
 | 9 | [Normal BST to Balanced BST](https://practice.geeksforgeeks.org/problems/normal-bst-to-balanced-bst/1/) | [Normal BST to Balanced BST](./Binary_Search_Tree/Normal_BST_to_Balanced_BST.java) | **Easy** |
   
  <br><br>
-</details>
 
-<details>
 <summary style="font-size: 1.5em">Stack and Queue</summary>
   
 | S.No | Question Link | Solution | Difficulty |
@@ -250,9 +242,7 @@
 | 19 | [Circular tour](https://practice.geeksforgeeks.org/problems/circular-tour/1) | [Circular tour](./Stack-Queue/Circular_tour.java) | **Medium** |
 
 <br><br>
-</details>
 
-<details>
 <summary style="font-size: 1.5em">Dynamic Programming</summary>
 
 | S.No | Question Link | Solution | Difficulty |
@@ -284,9 +274,7 @@
 
 <br><br>  
   
-</details>
 
-<details>
 <summary style="font-size: 1.5em">Mathematics</summary>
   
 | S.No | Question Link | Solution | Difficulty |
@@ -296,4 +284,4 @@
 | 3 | [Square root of a number](https://practice.geeksforgeeks.org/problems/square-root/1) | [Square root of a number](./Math/Square_root_of_a_number.java) | **Medium** |
 
 <br><br>
-</details>
+
